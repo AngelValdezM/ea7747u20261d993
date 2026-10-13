@@ -1,19 +1,19 @@
-#Case TrailGo Outdoor Centers
+Case TrailGo Outdoor Centers
 
-##Author
+Author
 Angel Andres Valdez Melo
 
-##NRC
+NRC
 7747
 
-##Repository
+Repository
 https://github.com/AngelValdezM/ea7747u20261d993
 
 
-##Fake API
+Fake API
 http://localhost:3000/outdoor-centers
 http://localhost:3000/reservations
 
-##Open-Meteo Weather API
+Open-Meteo Weather API
 https://open-meteo.com/
 
